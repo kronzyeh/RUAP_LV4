@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "D0nyymozb6s+VB6uT16YC7J/rYbWyUD00PDn6/eJ9uZ12znuPhRlk5E/NoxajRVuaF4Fi0BIX3qA3Fbs+Qa7AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\student\\source\\repos\\TestProject1\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.testplatform\\17.8.0\\microsoft.testplatform.17.8.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.visualstudio.unittesting\\11.0.50727.1\\microsoft.visualstudio.unittesting.11.0.50727.1.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\selenium.support\\4.15.0\\selenium.support.4.15.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\selenium.webdriver\\4.15.0\\selenium.webdriver.4.15.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.33.0\\selenium.webdriver.geckodriver.0.33.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
